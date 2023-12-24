@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <div className="content">
      <h1>App Component</h1>
+     <Navbar></Navbar>
      </div>
     </div>
   );
